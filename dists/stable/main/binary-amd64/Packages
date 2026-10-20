@@ -1,12 +1,12 @@
 Package: norc-cli
-Version: 0.2.2
+Version: 0.3.0
 Architecture: amd64
 Maintainer: norc <support@norc.app>
-Filename: pool/main/norc-cli_0.2.2_amd64.deb
-Size: 19896384
-MD5sum: aa7832f63f54588e3e641edc542bea3c
-SHA1: 96000ff78c51dc8cd7ee4e5af0e912f2146e2285
-SHA256: a6038131a60456c037fa05ca180f7962ccc3ea06b9df52d9f14a044b79ac4055
+Filename: pool/main/norc-cli_0.3.0_amd64.deb
+Size: 19929928
+MD5sum: d62e06ebf34c1347aee8650dca5826bd
+SHA1: e90b8afe13b1e6dbc612bb565d92ba15cd46b198
+SHA256: f5de30fc8da910ba4e007945bd6231cb939febcb2ba64d92770dc5b15a862817
 Section: utils
 Priority: optional
 Homepage: https://norc.app/cli
