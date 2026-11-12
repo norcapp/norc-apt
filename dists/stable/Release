@@ -5,19 +5,19 @@ Codename: stable
 Architectures: amd64 arm64
 Components: main
 Description: norc-cli and norc-desktop apt repository
-Date: Sun, 01 Nov 2026 16:07:25 UTC
+Date: Thu, 12 Nov 2026 21:41:56 UTC
 MD5Sum:
- 505ed75a50b908484226faa778baf570 590 main/binary-amd64/Packages
- 95a0d93a256bc683819578b180448f7c 438 main/binary-amd64/Packages.gz
- 841d1f7a6e88d8f66b01d3f9f93ce331 590 main/binary-arm64/Packages
- 047ecda6d5817746deb52ad3102d121d 437 main/binary-arm64/Packages.gz
+ 68fe3bcddf89f707e9abf34ce09e30da 590 main/binary-amd64/Packages
+ f46bb73ba06f3da7c2959e8c911a0716 438 main/binary-amd64/Packages.gz
+ 0fb068e65df51e317219802a4d95a165 590 main/binary-arm64/Packages
+ a44a7dd735726cc64d0b97b4e443eb25 435 main/binary-arm64/Packages.gz
 SHA1:
- a0ea35516de2752a25c846ccf306b459dfb4627d 590 main/binary-amd64/Packages
- 173b01f536d6db8747368bf5e86d96390c6d5897 438 main/binary-amd64/Packages.gz
- 8c74cbfd69f7df57422aaaebcd96e14d9fff6b34 590 main/binary-arm64/Packages
- 0a8061f8cbcdc4571f671105c8a6356b8e1526e9 437 main/binary-arm64/Packages.gz
+ d9cfdaffade82def57483bf29298befc5f8aa691 590 main/binary-amd64/Packages
+ abdc37fb3e05480cb6f00595d3abbaa205668cae 438 main/binary-amd64/Packages.gz
+ b6b4b5234a3be787dd424904523860826feb0530 590 main/binary-arm64/Packages
+ 2d95f2049ff371079963437dd9c1907aa9476fd6 435 main/binary-arm64/Packages.gz
 SHA256:
- de8ed2a1ad9c3dadb129dfe9c9166f2bb9924a47c0f0eb5208537fa0f9d1e718 590 main/binary-amd64/Packages
- 9beca224bdb7ceb6dff9d5f6a3e0520cdc98fc2b1ee6fcf4b0ef889ad0a5428a 438 main/binary-amd64/Packages.gz
- 61fce4a5f9053e6fb2c1c724112ad2e41ac8520919d842ac5a85bc90129f2edb 590 main/binary-arm64/Packages
- 23e56826790218544f232fec63a042bd216e548bef540ffc6ffbf90ab718e0b3 437 main/binary-arm64/Packages.gz
+ 5afff1ad2fed94ef79ee5659f9170de11301f0d2a10ced1c0320ede581c29e37 590 main/binary-amd64/Packages
+ ec3a65dfe6fe7a3c34d163c406de1dd87774fa70bf1e7906744092073ed89736 438 main/binary-amd64/Packages.gz
+ 17ee0e1d6f7881eff5feefb406dd869ca1838580554dba670de2362a88120cbc 590 main/binary-arm64/Packages
+ 5b8ab56e56edc44bbcbefc08091dd39d8b3e323deedea6918fd93b9cebb53ffc 435 main/binary-arm64/Packages.gz
